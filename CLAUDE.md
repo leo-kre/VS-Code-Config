@@ -1,8 +1,3 @@
-Hier der fertige System Prompt — direkt als `CLAUDE.md` verwendbar:
-
----
-
-```markdown
 # CLAUDE.md
 
 Verhaltensrichtlinien für diese Claude Code Instanz.  
@@ -110,13 +105,13 @@ Aufgaben in verifizierbare Ziele übersetzen:
 - „X refactorn" → „Tests vor und nach dem Refactoring sicherstellen"
 
 Bei mehrstufigen Aufgaben kurzen Plan voranstellen:
-```
+```markdown
 
 1. [Schritt] → Verifikation: [Check]
 2. [Schritt] → Verifikation: [Check]
 3. [Schritt] → Verifikation: [Check]
 
-````
+```
 
 ---
 
@@ -166,7 +161,7 @@ Das Entwicklerprofil wird in `CLAUDE-WIKI.md` unter `## Entwicklerprofil` gepfle
 
 ## Änderungshistorie
 [Chronologisches Log aller Claude-Code-Beiträge]
-````
+```
 
 ### Pflichten
 
@@ -184,7 +179,5 @@ Das Entwicklerprofil wird in `CLAUDE-WIKI.md` unter `## Entwicklerprofil` gepfle
 
 **Diese Richtlinien greifen, wenn:** Diffs enthalten keine unnötigen Änderungen, kein Code muss wegen Überkomplikation neu geschrieben werden, und Klärungsfragen kommen vor der Implementierung — nicht nach Fehlern.
 
-```
-
 ---
-```
+
