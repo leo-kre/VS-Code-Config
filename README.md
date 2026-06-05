@@ -13,3 +13,7 @@ Extensions:
 - JetBrains Icon Theme
 - JetBrains Font
 - Path Intellisense
+
+# Skills
+
+- context7
